@@ -22,7 +22,7 @@ public class App {
 
     System.out.println("내용??");
     String content = sc.nextLine();
-
+ 
     System.out.println("강의 시작일?");
     Date startdate = Date.valueOf(sc.nextLine());
 
